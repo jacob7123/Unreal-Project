@@ -6,7 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Unreal Projects/WarehouseWreckage/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/Unreal Projects/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap"
+				"C:/Unreal Projects/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Unreal Projects/WarehouseWreckage/Content/StarterContent/HDRI/BP_Projectile.uasset"
 			]
 		}
 	]
